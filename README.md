@@ -1,4 +1,4 @@
-# IEEE-Java-Project-list-
+# IEEE-Java-Project-list
 IEEE Java Project With Code, Document And Vidoe Tutorial
 
 ### Project List:
